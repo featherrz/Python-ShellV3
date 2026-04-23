@@ -13,7 +13,7 @@ SoftShell is a secure, database-driven shell environment built entirely in Pytho
 ## 🛠️ Installation
 Run this command:
    ```bash
-https://raw.githubusercontent.com/featherrz/Python-ShellV3/refs/heads/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/featherrz/Python-ShellV3/refs/heads/main/setup.sh)
    ```
 ## 📜 Default Credentials
 **Normal User:**
