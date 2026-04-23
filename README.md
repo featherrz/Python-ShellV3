@@ -11,8 +11,15 @@ SoftShell is a secure, database-driven shell environment built entirely in Pytho
 - **Custom Branding:** High-performance color-coded terminal output.
 
 ## 🛠️ Installation
-1. Ensure you have Python 3.x installed.
-2. Clone the repository:
+Run this command:
    ```bash
-   git clone [https://github.com/yourusername/softshell.git](https://github.com/yourusername/softshell.git)
-   
+https://raw.githubusercontent.com/featherrz/Python-ShellV3/refs/heads/main/setup.sh)
+   ```
+## 📜 Default Credentials
+**Normal User:**
+- Username: shell
+- Password: shell
+
+**Root User:**
+- Username: shell
+- Password: shell
